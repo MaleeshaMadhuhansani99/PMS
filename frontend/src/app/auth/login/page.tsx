@@ -24,5 +24,5 @@ export default function LoginPage() {
         <RegisterOrganizationBtn />
       </div>
     </div>
-  );
+  ); 
 }
